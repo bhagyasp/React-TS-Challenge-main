@@ -1,0 +1,14 @@
+
+{
+    "proxy" : {
+        "url":"https://api.themoviedb.org/3/movie/"
+    },
+    "api":{
+        "nowPlaying":"now_playing",
+        "latest":"latest",
+        "popular":"popular",
+        "topRated": "top_rated",
+        "upcoming": "upcoming"
+    },
+    "apiKey": "64de5c4ae98793d747c909f8c1153d7f"
+}
